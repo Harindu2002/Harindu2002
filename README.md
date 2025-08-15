@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harindu Jayawickrama</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Hi, I'm Harindu — an enthusiastic HND student in Information Technology with a passion for Web Development and a strong interest in Graphic Design. I enjoy creating both functional websites and visually appealing designs."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harindu2002&label=Profile%20views&color=0e75b6&style=flat" alt="harindu2002" /> </p>
 
