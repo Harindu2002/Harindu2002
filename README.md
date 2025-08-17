@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblMxQnlZUHBwd1psS3I1Q2Jaa0lFc0R0SlppUXxBQ3Jtc0trSk5fVUFiZUNVdlVSVVp3X2Q1bDFvUlVSdFlOcVhPb2Qya3pocnU0UDhvMXVwNG1VWUQ4eldlUDd5bEV2cnBIeFYtcE5iR3RoV3pISFZHb0dud1N6SmNOcU5GR25tOVBrUjhwM25Cdlk5ZWhuQ2Nudw&q=https%3A%2F%2Frishavchanda.io%2F&v=G-EGDH50hGE)
 <h1 align="center">Hi 👋, I'm Harindu Jayawickrama</h1>
 <h3 align="center">IT Undergraduate | Web Developer | Graphic Designer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harindu2002&label=Profile%20views&color=0e75b6&style=flat" alt="harindu2002" /> </p>
 
